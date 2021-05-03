@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Indian Number Plates</folder>
+	<filename>8455a1057e0175aa93a1570121b25712.jpg</filename>
+	<path>/Users/saketh/Documents/ANPR/Indian Number Plates/8455a1057e0175aa93a1570121b25712.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>610</ymin>
+			<xmax>901</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>

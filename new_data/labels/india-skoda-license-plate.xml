@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>india-skoda-license-plate.jpg</filename>
+	<path>/Users/saketh/Documents/darkflow-master/new_data/Images/india-skoda-license-plate.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1096</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>741</ymin>
+			<xmax>817</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>licensed_car185.jpeg</filename>
+	<path>/Users/saketh/Documents/darkflow-master/new_data/Images/licensed_car185.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>541</width>
+		<height>423</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>274</ymin>
+			<xmax>341</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>
